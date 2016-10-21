@@ -3,7 +3,6 @@
 ###Introduction
 
 Fuzzy Logic is a problem-solving logical system that extends multivalued logic. Initially, this concept was presented as a mean to process data by allowing partial set membership rather than a crisp set membership or no membership at all. In general, Fuzzy Logic provides an easy way to get a precise result based upon vague and imprecise data. Fuzzy Logic’s approach to solve problems is very similar to human decision making, only much faster and accurate.
-The next sections of this document will present both high-level and detailed designs of the Fuzzy Logic system, the tests performed in order to verify its correct behaviour and possible future improvements, which can be applied to it.
 
 ###High-level design of the system
 
